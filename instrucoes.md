@@ -1,3 +1,13 @@
+#==========================
+#==========================
+Atenção
+Esta API é apenas um trabalho universitário.
+Não tem funcionalidade nenhuma dentro da empresa.
+É apenas um estudo de caso.
+#==========================
+#==========================
+
+
 Baixe os arquivos do repositório usando o comando:
 git clone https://url_do_repositorio
 
